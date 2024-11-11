@@ -1,0 +1,9 @@
+.dropdown-item {
+  cursor: pointer;
+}
+
+.dropdown-content {
+  padding: 0;
+  max-height: 330px;
+  overflow-y: auto;
+}
